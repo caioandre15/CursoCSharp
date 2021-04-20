@@ -1,0 +1,11 @@
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\bin\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.deps.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\bin\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.runtimeconfig.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\bin\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.runtimeconfig.dev.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\bin\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\bin\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.pdb
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.AssemblyInfo.cs
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\ExercicioFixacaoSaidaDeDados\ExercicioFixacaoSaidaDeDados\obj\Debug\netcoreapp2.1\ExercicioFixacaoSaidaDeDados.pdb
