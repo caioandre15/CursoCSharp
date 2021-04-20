@@ -34,15 +34,6 @@ namespace SaidaDeDados
             Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais.");
             //Concatenação de Strings
             Console.WriteLine(nome + " tem " + idade + " anos e tem saldo igual a " + saldo.ToString("F2", CultureInfo.InvariantCulture) + " reais.");
-
-
-
-
-
-
-
-
-
         }
     }
 }
