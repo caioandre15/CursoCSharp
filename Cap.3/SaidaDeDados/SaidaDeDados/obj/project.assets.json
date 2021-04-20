@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\Course\\Course\\Course.csproj",
-      "projectName": "Course",
-      "projectPath": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
+      "projectName": "SaidaDeDados",
+      "projectPath": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
       "packagesPath": "C:\\Users\\Caio\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\Course\\Course\\obj\\",
+      "outputPath": "C:\\temp\\ws-vs2019\\CursoCSharp\\Cap.3\\SaidaDeDados\\SaidaDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
