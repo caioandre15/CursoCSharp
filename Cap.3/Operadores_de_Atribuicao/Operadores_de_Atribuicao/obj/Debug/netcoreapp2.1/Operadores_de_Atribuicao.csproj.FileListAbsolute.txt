@@ -1,0 +1,11 @@
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\bin\Debug\netcoreapp2.1\Operadores_de_Atribuicao.deps.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\bin\Debug\netcoreapp2.1\Operadores_de_Atribuicao.runtimeconfig.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\bin\Debug\netcoreapp2.1\Operadores_de_Atribuicao.runtimeconfig.dev.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\bin\Debug\netcoreapp2.1\Operadores_de_Atribuicao.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\bin\Debug\netcoreapp2.1\Operadores_de_Atribuicao.pdb
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.AssemblyInfo.cs
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_de_Atribuicao\Operadores_de_Atribuicao\obj\Debug\netcoreapp2.1\Operadores_de_Atribuicao.pdb
