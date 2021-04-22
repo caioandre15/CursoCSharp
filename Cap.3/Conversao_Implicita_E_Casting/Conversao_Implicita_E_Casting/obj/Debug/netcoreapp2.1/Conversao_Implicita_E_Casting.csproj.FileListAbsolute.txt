@@ -1,0 +1,11 @@
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.deps.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.runtimeconfig.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.runtimeconfig.dev.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\bin\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.pdb
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.AssemblyInfo.cs
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.pdb
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Conversao_Implicita_E_Casting\Conversao_Implicita_E_Casting\obj\Debug\netcoreapp2.1\Conversao_Implicita_E_Casting.csprojAssemblyReference.cache
