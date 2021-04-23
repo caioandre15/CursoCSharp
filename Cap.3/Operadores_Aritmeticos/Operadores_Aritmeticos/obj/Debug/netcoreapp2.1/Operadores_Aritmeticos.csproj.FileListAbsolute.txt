@@ -1,0 +1,10 @@
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\netcoreapp2.1\Operadores_Aritmeticos.deps.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\netcoreapp2.1\Operadores_Aritmeticos.runtimeconfig.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\netcoreapp2.1\Operadores_Aritmeticos.runtimeconfig.dev.json
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\netcoreapp2.1\Operadores_Aritmeticos.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\bin\Debug\netcoreapp2.1\Operadores_Aritmeticos.pdb
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\netcoreapp2.1\Operadores_Aritmeticos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\netcoreapp2.1\Operadores_Aritmeticos.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\netcoreapp2.1\Operadores_Aritmeticos.AssemblyInfo.cs
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\netcoreapp2.1\Operadores_Aritmeticos.dll
+C:\temp\ws-vs2019\CursoCSharp\Cap.3\Operadores_Aritmeticos\Operadores_Aritmeticos\obj\Debug\netcoreapp2.1\Operadores_Aritmeticos.pdb
